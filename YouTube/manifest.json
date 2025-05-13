@@ -1,7 +1,7 @@
 {
-  "name": "Newweb",
-  "short_name": "Dogzteam",
-  "description": "Newweb",
+  "name": "Dogzteam YouTube Channels",
+  "short_name": "YouTube Channels",
+  "description": "Dogzteam YouTube Channels",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#a3b432",

@@ -2,10 +2,8 @@ self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open('game-cache').then((cache) => {
       return cache.addAll([
-        'index.html',
-        'style.css',    // Add your CSS file(s) here
-        'script.js',    // Add your JS file(s) here
-        'icon.png',     // Your icon
+        'index.html
+        'Newweb.png',     // Your icon
         // Add other assets as needed
       ]);
     })

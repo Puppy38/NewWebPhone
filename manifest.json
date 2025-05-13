@@ -1,15 +1,15 @@
 {
-  "name": "Escape Eni",
-  "short_name": "Escape Eni",
-  "description": "Get Seven Coins Without Touching The Yellow Character!",
+  "name": "Newweb",
+  "short_name": "Dogzteam",
+  "description": "Newweb",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#a3b432",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "557x557",
+      "src": "newweb.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]

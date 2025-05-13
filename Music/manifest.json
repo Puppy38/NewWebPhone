@@ -1,7 +1,7 @@
 {
-  "name": "Newweb",
-  "short_name": "Dogzteam",
-  "description": "Newweb",
+  "name": "Dogzteam Play Music",
+  "short_name": "Music",
+  "description": "Music Player",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#a3b432",

@@ -1,7 +1,7 @@
 {
-  "name": "Newweb",
-  "short_name": "Dogzteam",
-  "description": "Newweb",
+  "name": "Dogzteam Play Games",
+  "short_name": "Games",
+  "description": "Games Player",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#a3b432",

@@ -1,7 +1,7 @@
 {
-  "name": "Newweb",
-  "short_name": "Dogzteam",
-  "description": "Newweb",
+  "name": "Dogzteam Books",
+  "short_name": "Books",
+  "description": "Book Reader",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#a3b432",
